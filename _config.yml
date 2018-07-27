@@ -1,8 +1,8 @@
 # Site settings 配置站点
-title:  'Rainman's blog'
-description:  'DO WHAT YOU LOVE , LOVE WHAT YOU DO'
+title: 'Rainman's blog'
+description: 'DO WHAT YOU LOVE , LOVE WHAT YOU DO'
 keyword: 'DQb 专注于后端技术的开发'
-url: 'http://liaokeyu.com' # your host
+url: 'http://dqb.life' # your host
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
