@@ -1,7 +1,7 @@
 # Site settings 配置站点
 title: "Rainman's blog"
 description: "DO WHAT YOU LOVE , LOVE WHAT YOU DO"
-keyword: 'DQb 专注于后端技术的开发'
+keyword: '运动 , 后端技术 , DQb的个人博客 ,生活感悟'
 url: 'http://dqb.life' # your host
 
 # if you don't need baseurl, you should leave this value blank.
@@ -17,7 +17,7 @@ footer:
   since: 2018
 
 # Author 配置博主信息
-author: '邓庆博'
+author: 'DQb'
 nickname: 'DQb'
 bio: '热爱编程技术，热爱开发'
 avatar: '/assets/img/profile.png'
@@ -50,7 +50,6 @@ postPatterns: 'seaOfClouds'
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
   weibo: '//weibo.com/旧友与忘'
-  juejin: ''
   instagram: '//www.instagram.com/dengqingbo'
   github: '//github.com/Rainsuperman'
 
@@ -59,7 +58,7 @@ recommend-tags: true # whether or not display recommend-tags on the sidebar
 recommend-condition-size: 12 # a tag will be recommended if the size of it is more than this value
 
 # Build settings
-paginate: 6
+paginate: 8
 paginate_path: 'page:num'
 exclude: ['node_modules', 'dev', 'package.json', 'gulpfile.js', '.gitignore', 'README.md']
 
@@ -73,7 +72,7 @@ kramdown:
 RSS: false
 
 # Permalink
-# See: https://github.com/kaeyleo/jekyll-theme-H2O/issues/35
+# See: https://github.com/rainsuperman
 permalink: /:year/:month/:day/:title.html
 
 # Plugins
