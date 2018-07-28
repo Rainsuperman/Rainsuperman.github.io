@@ -19,7 +19,8 @@ footer:
 # Author 配置博主信息
 author: 'DQb'
 nickname: 'DQb'
-bio: '热爱编程技术，热爱开发'
+bio: '热爱编程技术，热爱开发
+          喜欢运动和书法'
 avatar: '/assets/img/profile.png'
 
 # Search
@@ -30,8 +31,8 @@ nightMode: true
 
 # Comments 评论功能
 comments:
-  disqus: false
-  disqus_url: 'https://liaokeyu.disqus.com/embed.js'
+  disqus: true
+  disqus_url: 'https://dqb.disqus.com/embed.js'
 
 # MathJax 公式支持 by Ray-Eldath
 mathjax: true
@@ -69,7 +70,7 @@ kramdown:
   input: GFM
 
 # RSS
-RSS: false
+RSS: true
 
 # Permalink
 # See: https://github.com/rainsuperman
