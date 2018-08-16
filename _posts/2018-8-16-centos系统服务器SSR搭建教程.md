@@ -76,6 +76,6 @@ vim /etc/shadowsocks.json
 
 - 查看SSR的状态
 
-```
+```Java
 /etc/init.d/shadowsocks status
 ```
