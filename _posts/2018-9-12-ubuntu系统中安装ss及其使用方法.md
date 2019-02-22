@@ -34,7 +34,7 @@ sudo vim /etc/shadowsocks.json
     "method":"aes-256-cfb"
 }
 ```
-> 参数说明
+##### 参数说明
 
 -server 服务端监听地址(IPv4或IPv6)
 -server_port 服务端端口，一般为443
