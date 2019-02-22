@@ -34,14 +34,14 @@ sudo vim /etc/shadowsocks.json
     "method":"aes-256-cfb"
 }
 ```
-参数说明
-server 服务端监听地址(IPv4或IPv6)
-server_port 服务端端口，一般为443
-local_address 本地监听地址，缺省为127.0.0.1
-local_port 本地监听端口，一般为1080
-password 用以加密的密匙
-timeout 超时时间（秒）
-method 加密方法，默认的table是一种不安全的加密，此处首推aes-256-cfb
+> 参数说明
+-server 服务端监听地址(IPv4或IPv6)
+-server_port 服务端端口，一般为443
+-local_address 本地监听地址，缺省为127.0.0.1
+-local_port 本地监听端口，一般为1080
+-assword 用以加密的密匙
+-timeout 超时时间（秒）
+-method 加密方法，默认的table是一种不安全的加密，此处首推aes-256-cfb
 
 ### 三、运行shadowsocks客户端
 
@@ -58,7 +58,7 @@ sudo sslocal -c /etc/shadowsocks/config.json -d start
 ```
 
 ### 四、Chrome插件的配置
-  下载安装Proxy SwitchyOmega插件详情请见：https://www.qcgzxw.cn/2988.html
+  下载安装Proxy SwitchyOmega插件及其使用详情请见：https://www.qcgzxw.cn/2988.html
   
 
 
