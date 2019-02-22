@@ -3,7 +3,6 @@ layout: post
 title: "ubuntu系统中安装ss及其使用方法"
 description: "ubuntu系统中安装ss及其使用方法"
 categories: [工具]
-cover: 'https://i.loli.net/2018/08/22/5b7cd5e857bbd.jpg'
 tags: [工具, SSR]
 ---
 
