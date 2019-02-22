@@ -35,6 +35,7 @@ sudo vim /etc/shadowsocks.json
 }
 ```
 > 参数说明
+
 -server 服务端监听地址(IPv4或IPv6)
 -server_port 服务端端口，一般为443
 -local_address 本地监听地址，缺省为127.0.0.1
